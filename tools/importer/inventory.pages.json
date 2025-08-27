@@ -1,0 +1,472 @@
+{
+  "templates": [
+    {
+      "name": "'Content Hub Template'",
+      "cluster": 1,
+      "pages": [
+        {
+          "url": "https://www.richemont.com/about-us/ambition-values/",
+          "uuid": "6b0edf3eb8ef32a47ad26adb41325d6f0f899c1f"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/corporate-governance/",
+          "uuid": "04d72df83e365e7730e51e89405eb7b94caf772d"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/global-presence/",
+          "uuid": "e8fa96e909b2bb66cf66961c3552de555dc617b4"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/main-foundations-supported/",
+          "uuid": "33826017db94b2ee27e5884f9f7fbcc76e58c69f"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/contact-us/",
+          "uuid": "98a59d0cec2ca4be90527b25c6dfc3d91bd84612"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/partnerships/",
+          "uuid": "52b7672f077def7f8e0856d7f81c6c2f1263d461"
+        }
+      ]
+    },
+    {
+      "name": "'Content Grid Template'",
+      "cluster": 2,
+      "pages": [
+        {
+          "url": "https://www.richemont.com/talent/technology-at-richemont/",
+          "uuid": "aad1897e740f3e62b1a583cf40d43d47d6200b66"
+        },
+        {
+          "url": "https://www.richemont.com/talent/career-areas/",
+          "uuid": "c3491d3ada344f673411dc2f9cbbbdd72f5eeacc"
+        },
+        {
+          "url": "https://www.richemont.com/talent/application-process/",
+          "uuid": "53bb2cc5a0f99fb07136f71ed57c731a14fb95b7"
+        },
+        {
+          "url": "https://www.richemont.com/talent/students-graduates/",
+          "uuid": "9709c104fe936be5dbd484dbdbf26fee20f9fc8d"
+        },
+        {
+          "url": "https://www.richemont.com/talent/why-join-us/",
+          "uuid": "4a9ada871ebd9c76206bd7a6be8e0c635f21c7ff"
+        }
+      ]
+    },
+    {
+      "name": "'Content Grid Template'",
+      "cluster": 3,
+      "pages": [
+        {
+          "url": "https://www.richemont.com/talent/",
+          "uuid": "dd531e25fa43c82784d78b61c4bdfbcf9c15fe53"
+        },
+        {
+          "url": "https://www.richemont.com/investors/",
+          "uuid": "921776faaf9e5b26241d1f4ad54f23aedc27f57e"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/",
+          "uuid": "e7f95c8319befe6b435db6c296990a9f7e1fec3a"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/",
+          "uuid": "57185fa3f1b5ee9559f479718bde62073ec85b25"
+        }
+      ]
+    },
+    {
+      "name": "'Grid Listing Page'",
+      "cluster": 4,
+      "pages": [
+        {
+          "url": "https://www.richemont.com/our-maisons/dunhill/",
+          "uuid": "83f3d732681d4838c4adb7057fe6f7f8a1847169"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/cartier/",
+          "uuid": "cc1038f2d3dcad32ed3fbb7fd53ad39701a57eeb"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/vacheron-constantin/",
+          "uuid": "360859e22754fec6e6b461ae4be7990c69bf8591"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/delvaux/",
+          "uuid": "8bcc0bd214f4e6fd94b1f5c4192f5cbf3500bef7"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/piaget/",
+          "uuid": "d8889f11be7742a5c4f0997165529c20df252efb"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/vhernier/",
+          "uuid": "adc450327b619b00207a4fc982301fc003225b0f"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/az-factory/",
+          "uuid": "197cbc087b394f3d955476632470edc7da55776a"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/panerai/",
+          "uuid": "b950fc2ad7dc3474abec31df2ae0edb6d71b2029"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/alaia/",
+          "uuid": "4cd3ccb9ce25a19e94c755acd6ec63b6875c438b"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/buccellati/",
+          "uuid": "d3fb8bae678db0c6c78afbc9716025a10dba4bbf"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/gianvito-rossi/",
+          "uuid": "704a1a6cd67c9e0e9bbd0afbd480e81361dce0b4"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/timevallee/",
+          "uuid": "960e130970bc3f125970e897dd3c19514344cbb7"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/gfore/",
+          "uuid": "ba7aba9434c8be2450ee115e9a6fc2f5595724e2"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/peter-millar/",
+          "uuid": "8a1bc89bd2b9a81a10eff3cbb9fab01b2c354635"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/purdey/",
+          "uuid": "1e0a32f467672ee56876a67823362f4614de8d23"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/serapian/",
+          "uuid": "c2f575359c8ced7e0b723def282aa17670a204f2"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/chloe/",
+          "uuid": "46df0e514b3085ea2a6835807d6141725f8fe907"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/watchfinder-co/",
+          "uuid": "cf7ee155f8a41603935b084f3d3788e5a335f810"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/jaeger-lecoultre/",
+          "uuid": "3d7bbba0a5f222ff48a1c5cc87fd7602be565c20"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/iwc-schaffhausen/",
+          "uuid": "7ca863cf2790ae2a471e5dc0b2e56fdd79f62004"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/montblanc/",
+          "uuid": "629b176c3ff62135265df45f2c5e543d6a206c34"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/van-cleef-arpels/",
+          "uuid": "1c0e4436f85e0705dd90535e0d04f9cc9a4cbd55"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/baume-mercier/",
+          "uuid": "7a94ca49983ee146e5d8745a2e14d631390c57a9"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/a-lange-soehne/",
+          "uuid": "738f647a2e2c883c764f80404dc151d346b50724"
+        },
+        {
+          "url": "https://www.richemont.com/our-maisons/roger-dubuis/",
+          "uuid": "30872383d733ded1ee47339ac3a87c3ed17e6ee7"
+        }
+      ]
+    },
+    {
+      "name": "Gallery Display Template",
+      "cluster": 5,
+      "pages": [
+        {
+          "url": "https://www.richemont.com/talent/career-areas/alix-charrier/",
+          "uuid": "dc51d80c94f9092e30497bf6f61f8c1944361096"
+        },
+        {
+          "url": "https://www.richemont.com/talent/career-areas/jean-esch/",
+          "uuid": "e72e64c9228ac041546a609168dd2b5739a92a4a"
+        },
+        {
+          "url": "https://www.richemont.com/talent/career-areas/emma-jane-tritton/",
+          "uuid": "e9512e12d6341df0b23ecd209f31295913203849"
+        },
+        {
+          "url": "https://www.richemont.com/talent/career-areas/benoit-laval/",
+          "uuid": "1a6108e4fbdee29065ee36fc15e1d65b31c35d6f"
+        },
+        {
+          "url": "https://www.richemont.com/talent/career-areas/louise-lyons/",
+          "uuid": "67f35acb9e5f438c7090aa004b5f459d26ef0f19"
+        },
+        {
+          "url": "https://www.richemont.com/talent/career-areas/alan-dimanche/",
+          "uuid": "4110058864680374ca5dfb4a2c20a61c9299df66"
+        },
+        {
+          "url": "https://www.richemont.com/talent/career-areas/bastien-charrier/",
+          "uuid": "d7f9fead041a250704f54fc8f53adf55701a3c56"
+        },
+        {
+          "url": "https://www.richemont.com/talent/career-areas/karmlin-naidoo/",
+          "uuid": "d50c1173eaca21e9793c39934c53465a17af95cf"
+        },
+        {
+          "url": "https://www.richemont.com/talent/career-areas/fillippo-phillippides/",
+          "uuid": "1c41223aff6e1aa51a667d6274a8792a7282f810"
+        },
+        {
+          "url": "https://www.richemont.com/talent/career-areas/florent-aymeric-dubiez/",
+          "uuid": "4c73f8ded0da3d4ac6b29edc8ac388f3ae5ae551"
+        },
+        {
+          "url": "https://www.richemont.com/talent/career-areas/andrea-schellmoser/",
+          "uuid": "c0b1b7c567407b1e7825909b8dfb5d9bf331dfb9"
+        },
+        {
+          "url": "https://www.richemont.com/talent/career-areas/tiffany-ducher/",
+          "uuid": "18d44f177a64fbb09cbc1a96a9ca51ab65a9ce44"
+        },
+        {
+          "url": "https://www.richemont.com/talent/career-areas/omar-babtain/",
+          "uuid": "f81ed94f3bbeff147025e559117a9511f17dc503"
+        },
+        {
+          "url": "https://www.richemont.com/talent/career-areas/maxime-dischinger/",
+          "uuid": "a4e8507492ac9cdff0f1b610f92ccaf6dbd5f81b"
+        },
+        {
+          "url": "https://www.richemont.com/talent/career-areas/nicole-toh/",
+          "uuid": "caa7f58ce245a2055e80f10237a2549e302231e3"
+        },
+        {
+          "url": "https://www.richemont.com/talent/career-areas/marc-estruch/",
+          "uuid": "e19abd8bc54131282c979956748f67848f7c6f98"
+        },
+        {
+          "url": "https://www.richemont.com/talent/career-areas/isabelle-gianchandani/",
+          "uuid": "a162b202a4970d0d7a5d7e0aee01266007fe4c2e"
+        },
+        {
+          "url": "https://www.richemont.com/talent/career-areas/leon-brown/",
+          "uuid": "18a5e0cfe3cbe80b958a6bfbcb041e875c93af8e"
+        },
+        {
+          "url": "https://www.richemont.com/talent/career-areas/togzhan-yerzhanova/",
+          "uuid": "728ef20736cf62f662a5f4cc84eb1c6747fae58e"
+        }
+      ]
+    },
+    {
+      "name": "'Navigation Menu'",
+      "cluster": 6,
+      "pages": [
+        {
+          "url": "https://www.richemont.com/talent/our-schools-academia/",
+          "uuid": "bc153678049245f272c9d9159529237b64e5cdc0"
+        }
+      ]
+    },
+    {
+      "name": "Gallery Grid Page",
+      "cluster": 7,
+      "pages": [
+        {
+          "url": "https://www.richemont.com/about-us/history/",
+          "uuid": "fbd2de529d2a8806798868135256a97e4495de57"
+        }
+      ]
+    },
+    {
+      "name": "Modular Dashboard Template",
+      "cluster": 8,
+      "pages": [
+        {
+          "url": "https://www.richemont.com/",
+          "uuid": "57fbc00c934033ee7eaab2130a5d75698d046195"
+        }
+      ]
+    },
+    {
+      "name": "'Dashboard Overview'",
+      "cluster": 9,
+      "pages": [
+        {
+          "url": "https://www.richemont.com/about-us/corporate-governance/former-sec-members/",
+          "uuid": "2d6e294ab69d08b3fc0b9993ba29f4bb7a7b5290"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/corporate-governance/burkhart-grund-sec/",
+          "uuid": "cee70bc28c4109de438e91da97a484121d770155"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/corporate-governance/anton-rupert/",
+          "uuid": "5f840ebdc0a47bd0f0505de2f474bc4ba0984e47"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/corporate-governance/boet-brinkgreve/",
+          "uuid": "99faf80daba181e3de38fc8866b06cf06a4f452d"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/corporate-governance/berangere-ruchat/",
+          "uuid": "5127a99738b8c9764458d6a9e46a4dfbca8f6ce8"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/corporate-governance/wendy-luhabe/",
+          "uuid": "917c610538c900a3e15884b45c43c9846ff7bc96"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/corporate-governance/vesna-nevistic/",
+          "uuid": "18beb017a297b8d5a0b3e8bcd5c1ed892c139d41"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/corporate-governance/philippe-fortunato/",
+          "uuid": "9b21d4e4bd38ff49f14201cb5905ffcbc7d82507"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/corporate-governance/sophie-guieysse/",
+          "uuid": "848b468c7e22491df0355c86e2afb5d6cd2ea6e5"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/corporate-governance/swen-grundmann/",
+          "uuid": "40c66f1f12431852f1460a1209bdc3d3c48b20f5"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/corporate-governance/swen-grundmann-sec/",
+          "uuid": "86c79926234b5fc90f540189ddfbcd013b882436"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/corporate-governance/patrick-thomas/",
+          "uuid": "54a4edc6b96d91ce4cee62cdb80fda40a8a21de9"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/corporate-governance/burkhart-grund/",
+          "uuid": "1f6b93552f2ff0ddae571a23c90e906a943e24e4"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/corporate-governance/catherine-renier/",
+          "uuid": "5304134b564772cee629583952ae70b4ab93fda3"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/corporate-governance/cyrille-vigneron/",
+          "uuid": "4a47de1d96d6f1eb5e31f960208b93a767d812e6"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/corporate-governance/dr-jean-jacques-van-oosten/",
+          "uuid": "ad7f3631500b0cb2b1b0033b16dc9dfa65704815"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/corporate-governance/emmanuel-perrin/",
+          "uuid": "50420d3e38aeb692cfeea6791053465b27cba9aa"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/corporate-governance/eric-vallat/",
+          "uuid": "c52317f335d03903b7b1d532aa1e00dd0ed4e5c1"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/corporate-governance/frank-vivier/",
+          "uuid": "171d9bb3a02378dba3abf03f07f343581092d14e"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/corporate-governance/gary-saage/",
+          "uuid": "62339127c14868723a9777b3b1cae78254df416e"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/corporate-governance/jasmine-whitbread/",
+          "uuid": "5ded35389c4468f4ae79df84c4672549be034765"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/corporate-governance/jeff-moss/",
+          "uuid": "b750c2e20aaf25bf4c29296db7e45e8af4f228f4"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/corporate-governance/jerome-lambert/",
+          "uuid": "274514ee7556146699d4035187b03bf621e6f1b2"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/corporate-governance/johann-rupert-sec/",
+          "uuid": "8469c276c6820e48b6abe760d48e51266ee63721"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/corporate-governance/johann-rupert/",
+          "uuid": "fa060f40bf77d33d14c610fd1b15edc08ca3103f"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/corporate-governance/josua-malherbe/",
+          "uuid": "1f21cfd4bcbf4ccfa5f986e727807dae870bbd8a"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/corporate-governance/karlheinz-baumann/",
+          "uuid": "13d7ba0371878f6ea0c250f4b003896f30c0c75e"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/corporate-governance/keyu-jin/",
+          "uuid": "3e9fb34b50f35709639d5e1c6d5b71f692f9900a"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/corporate-governance/louis-ferla/",
+          "uuid": "bf288d0adc93db1185baa9d0204c55a58364de25"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/corporate-governance/marie-aude-stocker/",
+          "uuid": "e63639c697295396f9428d1cfa5a9255b6bba359"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/corporate-governance/nicolas-bos-sec/",
+          "uuid": "e0bbd94d48f2279552957581e42841dc2abc56d4"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/corporate-governance/nicolas-bos/",
+          "uuid": "990945156b553198f3bdd067deed541d94edc20a"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/corporate-governance/nikesh-arora/",
+          "uuid": "6855caf78dc4ed2bc6933a9f524fc585a06062ca"
+        },
+        {
+          "url": "https://www.richemont.com/about-us/corporate-governance/patricia-gandji/",
+          "uuid": "4b540982987e476df837ecea96896df750710927"
+        }
+      ]
+    },
+    {
+      "name": "Product Listing Page",
+      "cluster": 10,
+      "pages": [
+        {
+          "url": "https://www.richemont.com/investors/results-reports-presentations/",
+          "uuid": "a83dc23c661139ca88c85105467d20aaf8df0447"
+        }
+      ]
+    },
+    {
+      "name": "'Blog Listing'",
+      "cluster": 11,
+      "pages": [
+        {
+          "url": "https://www.richemont.com/talent/students-graduates/early-career-programmes/",
+          "uuid": "9fda83b0dbdc75fa3af1a72413eaa7e283e84220"
+        }
+      ]
+    },
+    {
+      "name": "'Product Listing Page'",
+      "cluster": 12,
+      "pages": [
+        {
+          "url": "https://www.richemont.com/investors/corporate-calendar/",
+          "uuid": "ddef165ab769afe5cee4fe5bbad65437366bc1b5"
+        }
+      ]
+    }
+  ]
+}
