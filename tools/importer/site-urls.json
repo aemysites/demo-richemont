@@ -1,6 +1,5 @@
 {
   "originUrl": "https://www.richemont.com",
-  "aborted": false,
   "lastCrawled": "https://www.richemont.com/",
   "urls": [
     {
@@ -595,7 +594,8 @@
       "url": "https://www.richemont.com/talent/view-our-jobs/",
       "source": "SITEMAPS",
       "targetPath": "/talent/view-our-jobs",
-      "id": "1f25f438927db8f217753f89e08048dcb550afda"
+      "id": "1f25f438927db8f217753f89e08048dcb550afda",
+      "status": "EXCLUDED"
     },
     {
       "url": "https://www.richemont.com/talent/why-join-us/",
@@ -604,6 +604,7 @@
       "id": "4a9ada871ebd9c76206bd7a6be8e0c635f21c7ff"
     }
   ],
+  "extractionErrors": [],
   "crawlOptions": {
     "timeout": 64800000,
     "inclusionPatterns": [],
@@ -616,6 +617,5 @@
     "strategiesAttempted": [
       "SITEMAPS"
     ]
-  },
-  "extractionErrors": []
+  }
 }
